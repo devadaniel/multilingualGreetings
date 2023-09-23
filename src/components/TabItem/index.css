@@ -1,0 +1,23 @@
+.tab-items {
+  list-style-type: none;
+}
+
+.language-button {
+  height: 30px;
+  width: 70px;
+  margin: 20px;
+  border: 1px solid #db1c48;
+  font-family: 'Roboto';
+  font-size: 13px;
+  border-radius: 15px;
+  padding: 5px;
+  color: #db1c48;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
